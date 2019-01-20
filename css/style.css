@@ -126,14 +126,14 @@ p.self
 }
 body
 {
-  background-image: url("/images/slider_bg.jpg");
+  background-image: url("./images/slider_bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 .edu
 {
-  background-image: url("/images/slide5.jpg");
+  background-image: url("./images/slide5.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 500px;
