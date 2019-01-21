@@ -419,8 +419,8 @@ body
 }
 .contact .phone p
 {
-  position:fixed;
-  top:100px;
-  left:250px;
+  position:relative;
+  top:500px;
+  left:300px;
 
 }
