@@ -420,6 +420,8 @@ body
 .contact .phone p
 {
   position:relative;
+  color: white;
+  font-weight:bold;
   top:500px;
   left:300px;
 
