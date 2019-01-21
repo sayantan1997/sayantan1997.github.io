@@ -419,7 +419,7 @@ body
 }
 .contact .phone p
 {
-  position:relative;
+  position:fixed;
   top:150px;
   left:250px;
 
